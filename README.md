@@ -1,1 +1,1 @@
-# coursera_profiles
+# Coursera Profiles
